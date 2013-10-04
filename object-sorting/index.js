@@ -1,4 +1,4 @@
-var sort = require('./sort-object');
+var sort = require('sort-object');
 
 var outOfOrder = {
   'foo': 1,
